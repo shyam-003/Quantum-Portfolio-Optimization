@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+.DS_Store/
+
+# Python virtual environments
+env/
+venv/
+ENV/
+
+# Environment variable files
+.env
+.env/
+
+# Pycache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Local OS junk
+*.log
